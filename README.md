@@ -1,7 +1,7 @@
 # MY FLYN Flutter App by Sarmed Ahmed Usmani
 
 ## Installation
-1. Clone repo: `git clone [your-github-url]`
+1. Clone repo: `git clone https://github.com/sarmedaqua/my_flyn_app.git`
 2. `flutter pub get`
 3. Run: `flutter run`
 
